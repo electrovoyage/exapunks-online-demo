@@ -8,5 +8,5 @@
 }
 
 .main {
-    background-image: url('https://electrovoyage.github.io/exapunks-online-demo/textures/desktop/background.png')
+    background-image: image('https://electrovoyage.github.io/exapunks-online-demo/textures/desktop/background.png');
 }
