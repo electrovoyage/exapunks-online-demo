@@ -7,6 +7,7 @@
         url('https://electrovoyage.github.io/exapunks-online-demo/fonts/impact.woff2') format('woff2');
 }
 
-.main {
-    background-image: image('https://electrovoyage.github.io/exapunks-online-demo/textures/desktop/background.png');
+body {
+    background-image: url('https://electrovoyage.github.io/exapunks-online-demo/textures/desktop/background.png');
+    background-size: cover;
 }
