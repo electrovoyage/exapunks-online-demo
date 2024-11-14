@@ -10,4 +10,5 @@
 body {
     background-image: url('https://electrovoyage.github.io/exapunks-online-demo/textures/desktop/background.png');
     background-size: cover;
+    background-position: top;
 }
