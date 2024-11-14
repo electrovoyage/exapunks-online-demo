@@ -1,6 +1,6 @@
 @font-face {
     font-family: Impact;
-    src:url('fonts/impact.ttf') format('truetype'),
-        url('fonts/impact.woff') format('woff'),
-        url('fonts/impact.woff2') format('woff2');
+    src:url('https://electrovoyage.github.io/exapunks-online-demo/fonts/impact.ttf') format('truetype'),
+        url('https://electrovoyage.github.io/exapunks-online-demo/fonts/impact.woff') format('woff'),
+        url('https://electrovoyage.github.io/exapunks-online-demo/fonts/impact.woff2') format('woff2');
 }
